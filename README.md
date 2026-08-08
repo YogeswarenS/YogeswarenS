@@ -88,7 +88,7 @@ I believe in "tech for good" — projects like real-time sensing dashboards and 
 ### 🔗 🏆 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yogeswaren.s?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="[https://leetcard.jacoblin.cool/Yogeswaren.s](https://leetcode.com/u/8IPtfGJgdp/)?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 <br>
