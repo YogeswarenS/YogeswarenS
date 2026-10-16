@@ -8,7 +8,7 @@
 
 ### 🔗 About Me
 
-I'm a **Pre-Final Year ECE student** at **Sri Venkateswara College of Engineering, Chennai**, batch of 2027.
+I'm a **Final Year ECE student** at **Sri Venkateswara College of Engineering, Chennai**, batch of 2027.
 
 My technical journey bridges **hardware and software** — I work on WiFi sensing systems and embedded projects, while building strong fundamentals in **DSA, C++, and Python** for a career as a Software Engineer.
 
